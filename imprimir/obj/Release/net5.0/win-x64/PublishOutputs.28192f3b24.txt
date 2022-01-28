@@ -1,0 +1,6 @@
+C:\Users\BUENO\Downloads\imprmir-main\imprmir-main\imprimir\bin\Release\net5.0\publish\imprimir.pdb
+C:\Users\BUENO\Downloads\imprmir-main\imprmir-main\imprimir\bin\Release\net5.0\publish\clrcompression.dll
+C:\Users\BUENO\Downloads\imprmir-main\imprmir-main\imprimir\bin\Release\net5.0\publish\clrjit.dll
+C:\Users\BUENO\Downloads\imprmir-main\imprmir-main\imprimir\bin\Release\net5.0\publish\coreclr.dll
+C:\Users\BUENO\Downloads\imprmir-main\imprmir-main\imprimir\bin\Release\net5.0\publish\mscordaccore.dll
+C:\Users\BUENO\Downloads\imprmir-main\imprmir-main\imprimir\bin\Release\net5.0\publish\imprimir.exe

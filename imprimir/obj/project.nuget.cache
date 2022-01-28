@@ -1,0 +1,20 @@
+{
+  "version": 2,
+  "dgSpecHash": "dY9J//HydgTXBuCTHL1uv8nqEg3yKVqq9FqKO4OeWJLzGc7sbJgwzaZu0D/0mtDNnatIfeZKf2B6Jx2TFrp+qQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\BUENO\\Downloads\\imprmir-main\\imprmir-main\\imprimir\\imprimir.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\BUENO\\.nuget\\packages\\esc-pos-usb-net\\1.1.3\\esc-pos-usb-net.1.1.3.nupkg.sha512",
+    "C:\\Users\\BUENO\\.nuget\\packages\\microsoft.netcore.platforms\\3.0.0\\microsoft.netcore.platforms.3.0.0.nupkg.sha512",
+    "C:\\Users\\BUENO\\.nuget\\packages\\microsoft.netcore.targets\\1.1.0\\microsoft.netcore.targets.1.1.0.nupkg.sha512",
+    "C:\\Users\\BUENO\\.nuget\\packages\\microsoft.win32.systemevents\\4.6.0\\microsoft.win32.systemevents.4.6.0.nupkg.sha512",
+    "C:\\Users\\BUENO\\.nuget\\packages\\newtonsoft.json\\13.0.1\\newtonsoft.json.13.0.1.nupkg.sha512",
+    "C:\\Users\\BUENO\\.nuget\\packages\\socketioclient\\2.2.2\\socketioclient.2.2.2.nupkg.sha512",
+    "C:\\Users\\BUENO\\.nuget\\packages\\socketioclient.newtonsoft.json\\2.2.1\\socketioclient.newtonsoft.json.2.2.1.nupkg.sha512",
+    "C:\\Users\\BUENO\\.nuget\\packages\\system.collections\\4.3.0\\system.collections.4.3.0.nupkg.sha512",
+    "C:\\Users\\BUENO\\.nuget\\packages\\system.drawing.common\\4.6.0\\system.drawing.common.4.6.0.nupkg.sha512",
+    "C:\\Users\\BUENO\\.nuget\\packages\\system.runtime\\4.3.0\\system.runtime.4.3.0.nupkg.sha512",
+    "C:\\Users\\BUENO\\.nuget\\packages\\system.text.json\\5.0.2\\system.text.json.5.0.2.nupkg.sha512"
+  ],
+  "logs": []
+}
